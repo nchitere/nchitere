@@ -2,7 +2,7 @@
 
 I am a healthcare professional with a keen interest in data and a passion for using data to drive insights and improve healthcare outcomes.
 
-I have been certified as a Professional Data Analyst by Datacamp, and currently work as a Senior Data and Analytics Coordinator for a non-profit organization focussed on maternal and neonatal health.
+I'm acertified as a Professional Data Scientist(DataCamp), and currently work as a Senior Data and Analytics Coordinator for a non-profit organization focussed on maternal and neonatal health.
 
 I am looking to collaborate on data analysis and data science projects. I am excited to use my skills and experience to help organizations make data-driven decisions and drive meaningful change.
 
