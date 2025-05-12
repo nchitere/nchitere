@@ -2,7 +2,7 @@
 
 I’m a professional with a strong interest in data and a passion for using data to uncover insights and drive impactful outcomes.
 
-I’m certified as a Professional Data Scientist (DataCamp) and currently work as a Senior Data and Analytics Coordinator for a non-profit organization.
+I’m certified as a Professional Data Scientist (DataCamp) and currently work as a Specialist Analytics & Data Science.
 
 I’m eager to collaborate on data analysis and data science projects, leveraging my skills and experience to help organizations make informed, data-driven decisions and achieve meaningful results.
 
