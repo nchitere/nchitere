@@ -1,16 +1,18 @@
 👋 Hi, I'm Netia Chitere. 
 
-I am a healthcare professional with a keen interest in data and a passion for using data to drive insights and improve healthcare outcomes.
+I’m a professional with a strong interest in data and a passion for using data to uncover insights and drive impactful outcomes.
 
-I'm acertified as a Professional Data Scientist(DataCamp), and currently work as a Senior Data and Analytics Coordinator for a non-profit organization focussed on maternal and neonatal health.
+I’m certified as a Professional Data Scientist (DataCamp) and currently work as a Senior Data and Analytics Coordinator for a non-profit organization.
 
-I am looking to collaborate on data analysis and data science projects. I am excited to use my skills and experience to help organizations make data-driven decisions and drive meaningful change.
+I’m eager to collaborate on data analysis and data science projects, leveraging my skills and experience to help organizations make informed, data-driven decisions and achieve meaningful results.
 
-If you are interested in working together, you can reach me at nchitere@gmail.com. I look forward to hearing from you and exploring how we can collaborate on data-driven projects.
+If you’re interested in working together, feel free to reach out at nchitere@gmail.com. I’m excited to explore potential collaborations on data-driven initiatives.
 
-Please take a look at my portfolio of projects on my github profile, where I have shared my experience and skills in data analysis and visualization.
+Please check out my portfolio on my GitHub profile, where I showcase my expertise in data analysis and visualization.
 
-Thank you for your time and I hope to hear from you soon.
+Thank you for your time, and I look forward to connecting soon!
+
+
 
 <!---
 nchitere/nchitere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
